@@ -1,0 +1,2 @@
+# Your Own Photo
+This should be taken within 3 months before the application date. It is easy to do this using [Kirei photo booth](https://www.dnpphoto.jp/products/kirei/). Only one copy is needed (glue it on the application form).
