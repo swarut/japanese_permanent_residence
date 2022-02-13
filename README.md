@@ -1,6 +1,6 @@
 # A Template and guide for Japanese Permanent Residence Application.
 
-Preparing for Japanese Permanent Residence application is a time consuming process. This repository was created to share how I prepare my application. Some examples the documents were added to help give some clues how they look like. The guide here will focus on the application with [Highly-skill-engineering condition A](https://www.isa.go.jp/en/applications/procedures/nyuukokukanri07_00131.html) as this was the one I applied.
+Preparing for Japanese Permanent Residence application is a time consuming process. This repository was created to share how I prepare my application. Some example documents were added to help give some clues how they look like. The guide here will focus on the application with [Highly-skill-engineering condition A](https://www.isa.go.jp/en/applications/procedures/nyuukokukanri07_00131.html) as this was the one I applied.
 
 ## How to use / How to prepare
 The required documents are categorized into folders, each contains a note about how to prepare or some things you need to pay attention to.
