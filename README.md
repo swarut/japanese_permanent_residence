@@ -23,8 +23,10 @@ I organized and ordered the documents as below.
 9. **Certificate of national tax payment** (国税の納付状況を証明する資料 - *kokuzei no noufu joukyou wo shoumei suru shiryou*).
 10. **Proof of income** - Copy your bank statements of the last two years.
 11. **Proof of pension and health insurance payment**.
+    1.  **Proof of pension payment in each year** - This is tricky.
+    2.  **Copy of health insurance card**.
 12. Guarantor documents.
-    1.  **Guarantor form** (身元保証書) - Get it from [PDF](https://www.moj.go.jp/isa/content/930002542.pdf)
+    1.  **Guarantor form** (身元保証書) - Get it from [PDF](https://www.moj.go.jp/isa/content/930002542.pdf).
     2.  **Guarantor's current employment certificate** (在職証明書 - *zaishoku shoumeisho*)
     3.  **Guarantor's income certificate** (所得証明書 - *shotoku shoumeisho*)
 13. Suppor documents for HSP. - ** Repeat this based on your HSP condition **
