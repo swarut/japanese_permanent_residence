@@ -1,8 +1,8 @@
-# A Template and guide for Japanese Permanent Residence Application.
+# A Template and Guide for Japanese Permanent Residence Application.
 
 Preparing for Japanese Permanent Residence application is a time consuming process. This repository was created to share how I prepare my application. Some example documents were added to help give some clues how they look like. The guide here will focus on the application with [Highly-skill-engineering condition A](https://www.isa.go.jp/en/applications/procedures/nyuukokukanri07_00131.html) as this was the one I applied.
 
-## How to use / How to prepare
+## How to Use / How to Prepare
 The required documents are categorized into folders, each contains a note about how to prepare or some things you need to pay attention to.
 Zairyuu and passport folders are just place holders to get you to know they are needed, no need to copy or print them out.
 When I prepared, I scanned all necessary documents and put them into their designated folder to help me organize them easier.
@@ -30,7 +30,7 @@ I organized and ordered the documents as below.
     1.  **Guarantor form** (身元保証書) - Get it from [PDF](https://www.moj.go.jp/isa/content/930002542.pdf).
     2.  **Guarantor's current employment certificate** (在職証明書 - *zaishoku shoumeisho*)
     3.  **Guarantor's income certificate** (所得証明書 - *shotoku shoumeisho*)
-13. [Support documents for HSP](https://github.com/swarut/japanese_permanent_residence/blob/main/13-support-documents/note.md). - ** Repeat this based on your HSP condition **
+13. [Support documents for HSP](https://github.com/swarut/japanese_permanent_residence/blob/main/13-support-documents/note.md). - **Repeat this based on your HSP condition**
     1.  **Point evaluation document** - Get the newest one from [XLS - english](https://www.isa.go.jp/common/uploads/pub-293_01.xls), [XLS - japanese](https://www.moj.go.jp/isa/content/930001673.xls)
     2.  **Income certificate** (所得証明書 - *shotoku shoumeisho*)
     3.  Education and work history 
@@ -45,7 +45,7 @@ I organized and ordered the documents as below.
 
 Please check the note in each folder to know how to obtain a specific document.
 
-## Sending the application at the immigration office
+## Sending the Application at The Immigration Office
 I went to the [immigration office in Shinagawa](https://goo.gl/maps/zYxWKWo2ZMyfVxHL7) as it is the closest one for me. There are some immigration offices in other places as well, such as in Tachigawa. 
 
 You can get to the immigration office from Shinagawa station by taking a bus [here](https://goo.gl/maps/rFU2HtvwNKmSpXCR8). However, you can also walk there as well, it is only 2KM from the station which should take you around 25 minutes.
@@ -59,3 +59,6 @@ When you get into the building, go straight to the second floor. You will see th
 After you get the number tag, wait in front of the B counter. Once they call you, you have to hand in the documents and they will do a full check. I missed one document that the staff at pre-check counter did not mention to me, that is the acknowledgement document (了解書 in 3-2). You can print this, but please fill in the date and signature with your own writing in the day of application. The staff in the B counter may ask you some questions as well. If things are ok, you have to wait on the right side of the B counter for your passport and zairyu card to be returned.
 
 At the end, you will get the receipt. Take a photo of it, and make sure not to lose it, very important. 
+
+## Special Thanks
+I would like to express my deep gratitude to my wife, friends and colleagues who helps me prepare the documents. Thanks Prae, O.Yusuke, L.Sean, S.Scott, S.Hiroshi and X.Tan for all your supports 🙇🏻‍♂️.
