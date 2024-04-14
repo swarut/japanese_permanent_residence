@@ -73,5 +73,5 @@ At the end, you will get the receipt. Take a photo of it, and make sure not to l
 ## Special Thanks
 I would like to express my deep gratitude to my wife, friends and colleagues who helps me prepare the documents. Thanks Prae, O.Yusuke, L.Sean, S.Scott, S.Hiroshi and X.Tan for all your supports 🙇🏻‍♂️.
 
-## Contribution
+## Contributions
 - Thanks Purijit V for contributing to this repo with the latest update on April 2024.
