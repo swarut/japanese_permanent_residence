@@ -1,7 +1,7 @@
 # Certificate of national tax payment (国税の納付状況を証明する資料)
 **Please make sure that this document is issued within 3 months before the application date.**
 
-For 国税の納付状況を証明する資料 - *kokuzei no noufu joukyou wo shoumei suru shiryou*, you can get it from the tax office in your ward. This is the document certifies that you paid all necessary taxes so there is no time-range required. In the form that you need to fill in in order to request it, you will tick something like this.
+For 国税の納付状況を証明する資料 (*kokuzei no noufu joukyou wo shoumei suru shiryou*), you can obtain it from the tax office in your ward. You can check the location from [here](https://www.nta.go.jp/about/organization/access/map.htm). This document certifies that you have paid all necessary taxes, so there is no specific time range required. In the form that you need to fill out to request it, you will tick something like this:
 
 <img src="https://user-images.githubusercontent.com/889798/153757448-f89be8d4-043f-4f1f-904d-33894f0d2dfc.png" width="550px" style="margin-left: auto; margin-right: auto; display: block;">
 
