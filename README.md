@@ -1,6 +1,8 @@
 # A Template and Guide for Japanese Permanent Residence Application.
 
-Preparing for Japanese Permanent Residence application is a time consuming process. This repository was created to share how I prepare my application. Some example documents were added to help give some clues how they look like. The guide here will focus on the application with [Highly-skill-engineering condition A](https://www.isa.go.jp/en/applications/procedures/nyuukokukanri07_00131.html) as this was the one I applied.
+Preparing for Japanese Permanent Residence application is a time consuming process. This repository was created to share how I prepare my application. Some example documents were added to help give some clues how they look like. The guide here will focus on the application with [Highly-skilled engineering in number 6 and 7](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html?hl=en) as this was the one I applied for.
+
+**Disclaimer:** This document was last updated in April 2024, so please double-check the requirements on [the official website](https://www.moj.go.jp/isa/applications/procedures/zairyu_eijyu03.html) before applying.
 
 ## How to Use / How to Prepare
 The required documents are categorized into folders, each contains a note about how to prepare or some things you need to pay attention to.
@@ -60,5 +62,13 @@ After you get the number tag, wait in front of the B counter. Once they call you
 
 At the end, you will get the receipt. Take a photo of it, and make sure not to lose it, very important. 
 
+**April 2024 update**, I arrived at 8:00 AM and queued up. By 8:30 AM, I entered the immigration center. At counter B, I showed my passport, and the Zairyu staff checked my documents and completed all tasks in just 10 minutes.
+
+## FAQs
+1. Can I apply for the Highly-Skilled Engineering category if I hold an Engineer/Specialist visa in humanities/International services?
+   - Yes, you can apply if you meet the eligibility criteria for the Highly-Skilled Engineering category, which requires accumulating 70 points or more continuously for three years, or one year with 80 points or more. [ref Note 2](https://www.moj.go.jp/isa/applications/resources/nyukan_nyukan50.html?hl=en)
+2. Is there any way to quickly calculate the points?
+    - Yes, there's an online website (unofficial) where you can check roughly: [Japan PR Calculator](https://japanprcalculator.com/)
+ 
 ## Special Thanks
 I would like to express my deep gratitude to my wife, friends and colleagues who helps me prepare the documents. Thanks Prae, O.Yusuke, L.Sean, S.Scott, S.Hiroshi and X.Tan for all your supports 🙇🏻‍♂️.

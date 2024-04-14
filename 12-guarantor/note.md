@@ -1,9 +1,8 @@
 # Guarantor Document
-As some credential information may be revealed, finding the guarantor is hard. The person who can be a guarantor is a Japanese or someone who already obtained a permanent residence.
 
-## **Guarantor form** (身元保証書) 
-Get it from the website [PDF](https://www.moj.go.jp/isa/content/930002542.pdf).
+As some credential information may be revealed, finding the guarantor is hard. The person who can be a guarantor is a Japanese citizen or someone who already obtained permanent residence.
 
-## **Guarantor's current employment certificate** (在職証明書 - *zaishoku shoumeisho*)
+## 1. Letter of Personal Guarantee (身元保証書) 
+Obtain it from the website and it must be handwritten. [PDF](https://www.moj.go.jp/isa/content/930002536.pdf).
 
-## **Guarantor's income certificate** (所得証明書 - *shotoku shoumeisho*)
+## 2. Documents that Clarify the Identity of the Guarantor (copy of driver's license, zairyu card, etc.)

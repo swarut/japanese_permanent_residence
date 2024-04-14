@@ -1,5 +1,5 @@
 ## Proof of Income
-This is easy, print out the bank statements back for one year from the website, or the statement on the bank book.
+This is easy, print out the bank statements back for two years from the website, or the statement on the bank book.
 
 This is how it looks like.
 
