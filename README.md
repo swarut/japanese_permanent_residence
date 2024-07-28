@@ -30,8 +30,9 @@ I organized and ordered the documents as below.
     2.  **Copy of health insurance card**.
 12. [Guarantor documents](https://github.com/swarut/japanese_permanent_residence/blob/main/12-guarantor/note.md).
     1.  **Guarantor form** (身元保証書) - Get it from [PDF](https://www.moj.go.jp/isa/content/930002542.pdf).
-    2.  **Guarantor's current employment certificate** (在職証明書 - *zaishoku shoumeisho*)
-    3.  **Guarantor's income certificate** (所得証明書 - *shotoku shoumeisho*)
+    2.  Copy of guarantor's identity proof (zairyuu card or driving license).
+    3.  ~~**Guarantor's current employment certificate** (在職証明書 - *zaishoku shoumeisho*)~~ updated 2024, you don't need  this
+    4.  ~~**Guarantor's income certificate** (所得証明書 - *shotoku shoumeisho*)~~ updated 2024, you don't need  this
 13. [Support documents for HSP](https://github.com/swarut/japanese_permanent_residence/blob/main/13-support-documents/note.md). - **Repeat this based on your HSP condition**
     1.  **Point evaluation document** - Get the newest one from [XLS - english](https://www.isa.go.jp/common/uploads/pub-293_01.xls), [XLS - japanese](https://www.moj.go.jp/isa/content/930001673.xls)
     2.  **Income certificate** (所得証明書 - *shotoku shoumeisho*)
